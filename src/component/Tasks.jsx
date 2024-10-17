@@ -1,7 +1,7 @@
 import React from "react";
-import YouTubeIcon from "@mui/icons-material/YouTube";
-import Facebook from "@mui/icons-material/FaceBook";
-import Instagram from "@mui/icons-material/Instagram";
+import {YouTubeIcon} from "@mui/icons-material/YouTube";
+import {Facebook} from "@mui/icons-material/FaceBook";
+import {Instagram } from "@mui/icons-material/Instagram";
 import { Telegram } from "@mui/icons-material";
 const Tasks = () => {
   return (
@@ -57,7 +57,7 @@ const Tasks = () => {
             <span>
               join on <Telegram className="icon" fontSize="large" />
             </span>
-            <a href="https://t.me/awash_fx" target="_blank">
+            <a href="https://t.me/awash_claim" target="_blank">
               claim
             </a>
           </div>
